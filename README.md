@@ -1,6 +1,6 @@
 # bookcamp
 
-![Alt text](front-end/public/img/BOOKCAMP.svg)
+![Alt text](front-end/public/img/index.png)
 
 2023/7/16 修改 order_detail 欄位名稱、加入會員假資料
 
